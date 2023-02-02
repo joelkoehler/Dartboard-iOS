@@ -1,5 +1,7 @@
 # Dartboard
 
+Watch a video demo of Dartboard <a href="https://youtu.be/bXtTpGhrq5U">here!</a>
+
 ### Description 
 
 Dartboard is an iOS app that was created to spark adventure. Using the device location, Dartboard 
@@ -11,8 +13,6 @@ throwing darts until they reach a location of interest, at which point Dartboard
 
 Whether you're looking to find a new skate spot, explore your neighborhood, or pick a city for
 a spontaneous road trip, Dartboard has you covered.
-
-Watch a video demo of Dartboard <a href="https://youtu.be/bXtTpGhrq5U">here!</a>
 
 ### Usage
 
