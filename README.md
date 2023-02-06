@@ -1,7 +1,5 @@
 # Dartboard
 
-Watch a video demo of Dartboard <a href="https://youtu.be/bXtTpGhrq5U">here!</a>
-
 ### Description 
 
 Dartboard is an iOS app that was created to spark adventure. Using the device location, Dartboard 
